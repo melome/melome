@@ -1,16 +1,6 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/melome/portfolio/blob/main/images/icon.png">
-    </td>
-    <td>
-      <h1>Hi 👋, I'm Shanley Rosero</h1>
-      <p>I'm a proficient back-end developer who can handle front-end tasks too. While I excel in creating robust back-end solutions, sometimes I still have to Google "How to center a div?" – a classic rite of passage into full-stack development! 😊</p>
-    </td>
-  </tr>
-</table>
-
 # 💫 About Me:
+#### I'm a proficient back-end developer who can handle front-end tasks too. While I excel in creating robust back-end solutions, sometimes I still have to Google "How to center a div?" – a classic rite of passage into full-stack development! 😊
+
 🔭 I’m currently working on [a chatbot app using cohere API](https://github.com/melome/cohere-ai-chatbot)<br>
 🌱 I’m currently learning to develop an app using MERN stack<br>
 💬 You can ask me about HubSpot too 😉<br>
